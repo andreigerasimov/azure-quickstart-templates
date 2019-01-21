@@ -64,7 +64,7 @@
     "publicIPAddressName": "[concat(variables('prefix'),'publicip')]",
     "publicIPAddressType": "Dynamic",
     "vmName": "[concat(variables('prefix'),'vm')]",
-    "vmSize": "Standard_D2_v2",
+    "vmSize": "Standard_D1_v2",
     "storageAccountType": "Standard_LRS",
     "VMCount": "[parameters('vmCount')]",
     "VMStart": 1
