@@ -26,7 +26,7 @@
       "metadata": {
         "description": "Size for the monitor VM."
       },
-      "defaultValue": "Standard_DS2"
+      "defaultValue": "Standard_D1_v2"
     },
     "vmImageReference": {
       "type": "object",
